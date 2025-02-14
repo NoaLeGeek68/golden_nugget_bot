@@ -54,7 +54,7 @@ dependencies {
     }
     implementation 'com.github.TheSimpleTeam.JDA-Chewtils:jda-chewtils-command:ab05b178ae'
     //ByteCode
-    implementation 'net.bytebuddy:byte-buddy:1.12.9'
+    implementation 'net.bytebuddy:byte-buddy:1.17.1'
     //Eval
     implementation "org.graalvm.sdk:graal-sdk:$graalVersion"
     implementation "org.graalvm.js:js:$graalVersion"
